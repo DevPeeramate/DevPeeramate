@@ -1,11 +1,10 @@
 
-![Description](/Image/2.gif "")
+[![Image](/Image/2.gif "")](..)
 
 ## Hi there 👋
 
 
 
-<!--[![Saiba twins fanart](images/103424174_p0.png "")](https://www.pixiv.net/en/artworks/103424174)
 
 <!--
 **DevPeeramate/DevPeeramate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
