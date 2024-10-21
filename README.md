@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div>
+<img src="https://www.pinterest.com/pin/8022105581099197/" alt="profile image" style="width:300px; height:auto;"/>
+</div>
+
 <!--
 **DevPeeramate/DevPeeramate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
