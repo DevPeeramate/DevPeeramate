@@ -1,5 +1,6 @@
-
-[![Image](/Image/2.gif "")](..)
+<p align="right">
+  <img src="/Image/2.gif" alt="description" width="500"/>
+</p>
 
 ## Hi there 👋
 
