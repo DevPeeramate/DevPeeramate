@@ -1,6 +1,5 @@
-<div "text-align: right;">
-<img src="/Image/2.gif" alt="profile image" style="width: 50%; height: auto;""/>
-</div>
+
+![Description](/Image/2.gif)
 
 ## Hi there 👋
 
