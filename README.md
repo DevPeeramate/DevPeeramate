@@ -78,3 +78,13 @@ I tried writing as much as I wanted.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
   </a>
 </div>
+
+# 🧠 Learning :
+<div align="center">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="56" height="56" alt="Dart" />
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="56" height="56" alt="Flutter" />
+</a>
+</div>
