@@ -86,9 +86,6 @@ I tried writing as much as I wanted.
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="56" height="56" alt="Dart" />
 </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="56" height="56" alt="Flutter" />
-</a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="56" height="56" alt="ASP.NET" />
 </a>
