@@ -1,4 +1,4 @@
-# <div aling="center">  Hi Viewer🧑‍💼 , I'm Team 👋/div>
+# <div align="center">  Hi Viewer🧑‍💼 , I'm Team 👋</div>
 
 <p align="center">
   <img src="/Image/2.gif" alt="description" width="500"/>
