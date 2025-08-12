@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF000000&width=435&lines=Web+Developer+%F0%9F%96%A5%EF%B8%8F;Front-end+Developer+%F0%9F%97%92%EF%B8%8F;Back-end+Developer+%F0%9F%97%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%97%92%EF%B8%8F%F0%9F%97%82%EF%B8%8F;Learning+is+infinite+%F0%9F%9A%80%E2%99%BE%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Web+Developer+%F0%9F%96%A5%EF%B8%8F;Front-end+Developer+%F0%9F%97%92%EF%B8%8F;Back-end+Developer+%F0%9F%97%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%97%92%EF%B8%8F%F0%9F%97%82%EF%B8%8F;Learning+is+infinite+%F0%9F%9A%80%E2%99%BE%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-# Profile Me
+## Profile Me
 - Name : Peeramate Jukkasat
 - Nickname : Team
 - University : Kasetsart University (Sri Racha Campus)
@@ -16,74 +16,38 @@
 - Department : Computer Science and Information Technology
 - Major : Computer Science
 
-I am learning code
---
+## 📊 WakaTime
+<a href="https://wakatime.com/badge/user/4daa12f6-e510-44fd-8fb8-0c9ce71a0d81/project/6beb228f-9583-4c08-b5cf-9ea3cde4c1db"><img src="https://wakatime.com/badge/user/4daa12f6-e510-44fd-8fb8-0c9ce71a0d81/project/6beb228f-9583-4c08-b5cf-9ea3cde4c1db.svg" alt="wakatime"></a>
 
-I tried writing as much as I wanted.
 
-* ✉️  You can contact me at [callmeteam46@gmail.com](mailto:callmeteam46@gmail.com)
-* 🧠  I'm learning Trial and error
-<br>
+## 📈 GitHub Stats
+<div > <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DevPeeramate&show_icons=true&theme=tokyonight" /> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prxsss&layout=compact&langs_count=8&card_width=320&theme=tokyonight" /> </a> </div>
 
-# :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools
+### Language 🔧
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,cs&theme=dark&perline=15" alt="My Skills" /></a>
+### Front-end 🗒️
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,vuejs&theme=dark&perline=15" alt="My Skills" /></a>
+### Back-end 🗂️
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,expressjs,dotnet&theme=dark&perline=15" alt="My Skills" /></a>
+### Database 🖥️
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,sqlite,firebase,mysql&theme=dark&perline=15" alt="My Skills" /></a>
+### Design 🎨
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,notion&theme=dark&perline=15" alt="My Skills" /></a>
+### Program & Application & Tool 🔨
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,bitbucket,git&theme=dark&perline=15" alt="My Skills" /></a>
 
+## 🌐 Let's Connect!
 
 <div align="center">
-  <h3>Language</h3>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="56" height="56" alt="C" />
+  <a href="https://www.linkedin.com/in/peeramate-jukkasat/?originalSubdomain=th">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="56" height="56" alt="C++" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="56" height="56" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="56" height="56" alt="Python" />
-  </a>
-  <!---
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="56" height="56" alt="TypeScript" />
-  </a>
-  --->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="56" height="56" alt="JavaScript" />
-  </a>
-  <h3>Front-End</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="56" height="56" alt="HTML5" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="56" height="56" alt="Vue" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="56" height="56" alt="Bootstrap" />
-  </a>
-  <h3>Back-End</h3>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="56" height="56" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="56" height="56" alt="Express" />
-  </a>
-  <h3>Database</h3>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="56" height="56" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="56" height="56" alt="PostgreSQL" />
-  </a>
-  <h3>Design</h3>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="56" height="56" alt="Figma" />
-  </a>
-  <h3>Program & Application & Tool</h3>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="56" height="56" alt="Git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
+  <a href="https://github.com/DevPeeramate">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
 </div>
 
+<div align="center">
+  <sub>Built with 🖥️ by Team | Last updated: August 2025</sub>
+</div>
