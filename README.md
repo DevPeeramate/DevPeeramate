@@ -1,8 +1,12 @@
 # <div align="center">  Hi Viewer🧑‍💼 , I'm Team 👋</div>
 
-<p align="center">
+<div align="center">
   <img src="/Image/2.gif" alt="description" width="500"/>
-</p>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF000000&width=435&lines=Web+Developer+%F0%9F%96%A5%EF%B8%8F;Front-end+Developer+%F0%9F%97%92%EF%B8%8F;Back-end+Developer+%F0%9F%97%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%97%92%EF%B8%8F%F0%9F%97%82%EF%B8%8F;Learning+is+infinite+%F0%9F%9A%80%E2%99%BE%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 # Profile Me
 - Name : Peeramate Jukkasat
