@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Web+Developer+%F0%9F%96%A5%EF%B8%8F;Front-end+Developer+%F0%9F%97%92%EF%B8%8F;Back-end+Developer+%F0%9F%97%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%97%92%EF%B8%8F%F0%9F%97%82%EF%B8%8F;Learning+is+infinite+%F0%9F%9A%80%E2%99%BE%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-## Profile Me
+## Profile Me 💻
 - Name : Peeramate Jukkasat
 - Nickname : Team
 - University : Kasetsart University (Sri Racha Campus)
