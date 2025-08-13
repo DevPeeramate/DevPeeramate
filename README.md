@@ -15,11 +15,7 @@
 - Faculty : Science at Sriracha
 - Department : Computer Science and Information Technology
 - Major : Computer Science
-
-## 📊 WakaTime
-<a href="https://wakatime.com/badge/user/4daa12f6-e510-44fd-8fb8-0c9ce71a0d81/project/6beb228f-9583-4c08-b5cf-9ea3cde4c1db"><img src="https://wakatime.com/badge/user/4daa12f6-e510-44fd-8fb8-0c9ce71a0d81/project/6beb228f-9583-4c08-b5cf-9ea3cde4c1db.svg" alt="wakatime"></a>
-
-
+- 
 ## 📈 GitHub Stats
 <div > <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DevPeeramate&show_icons=true&theme=tokyonight" /> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prxsss&layout=compact&langs_count=8&card_width=320&theme=tokyonight" /> </a> </div>
 
