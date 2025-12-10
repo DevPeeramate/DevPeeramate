@@ -16,7 +16,7 @@
 - Department : Computer Science and Information Technology
 - Major : Computer Science
 ## 📈 GitHub Stats
-<div align="center">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevPeeramate&show_icons=true&theme=tokyonight" />
   </a>
