@@ -1,5 +1,3 @@
-# <div align="center">  Hi Viewer🧑‍💼 , I'm Team 👋</div>
-
 <div align="center">
   <img src="/Image/2.gif" alt="description" width="500"/>
 </div>
