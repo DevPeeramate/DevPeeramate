@@ -3,8 +3,11 @@
 I'm Team a Computer Science Student at **Kasetsart University Sriracha Campus**.
 I'm passionate about **Full-Stack Development** with 6 months of **real-world internship experience**.
 
-- 🔭 **I’m currently working on:** Login System (Planning)
-- 💼 **Experience:** Former Full-Stack Intern working on ERP systems using C#/.NET & Vue.js.
+- **I’m currently working on:** Login System (Planning)
+- **Experience:** Former Full-Stack Intern working on ERP systems using C#/.NET & Vue.js.
+
+### My Project
+- Logistic System via LINE
 
 ### Skills and Tools
 
