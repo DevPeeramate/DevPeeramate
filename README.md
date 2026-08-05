@@ -10,9 +10,10 @@ I'm **Team (Peeramate Jukkasat)**, a Computer Science graduate from Kasetsart Un
 
 ### 🛠 Core Stack
 
-**Internal Tools (Manufacturing Support)**  
+**Internal Tools (Manufacturing Support  & Internal Development)**  
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&v=2)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&v=2)
+![Visual Basic for Applications](https://img.shields.io/badge/Visual_Basic_for_Applications-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&v=2)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&v=2)
 
